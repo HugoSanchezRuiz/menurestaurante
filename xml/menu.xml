@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <!--plato 1-->
+    <platos comida="Tapas">
+      <nombre>Patatas bravas</nombre>
+      <precio>5,00€</precio>
+      <description>Ración de patatas con salsa</description>
+      <calorias>275 kcal</calorias>
+      <caracteristicas> 
+        <item></item>
+      </caracteristicas>
+    </platos>
+    <!--plato 2-->
+    <platos comida="Tapas">
+      <nombre>Patas de calamar</nombre>
+      <precio>7,00€</precio>
+      <description>Ración de patas de calamar</description>
+      <calorias>269 kcal</calorias>
+      <caracteristicas> 
+        <item>Pescado</item>
+      </caracteristicas>
+      <!--<imagen ruta="./img/pescado.svg"/>-->
+    </platos>
+    <!--plato 3-->
+    <platos comida="Tapas">
+      <nombre>Carne en salsa</nombre>
+      <precio>5,75€</precio>
+      <description>Ración de carne en salsa con trozos de pan</description>
+      <calorias>204 kcal</calorias>
+      <caracteristicas> 
+        <item>Carne</item>
+        <item>Glúten</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 4-->
+    <platos comida="Tapas">
+      <nombre>Croquetas</nombre>
+      <precio>3,50€</precio>
+      <description>Ración de 8 croquetas cada una de un sabor distinto</description>
+      <calorias>480 kcal</calorias>
+      <caracteristicas> 
+        <item>Glúten</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 5-->
+    <platos comida="Tapas">
+      <nombre>Tabla de queso</nombre>
+      <precio>10,00€</precio>
+      <description>Tabla variada de 5 tipos de queso </description>
+      <calorias>402,5 kcal</calorias>
+      <caracteristicas> 
+        <item>Lactosa</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 6-->
+    <platos comida="Pizza">
+      <nombre>Pizza barbacoa</nombre>
+      <precio>9,50€</precio>
+      <description>Pizza con cebolla, carne picada y salsa barbacoa </description>
+      <calorias>250 kcal</calorias>
+      <caracteristicas> 
+        <item>Glúten</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 7-->
+    <platos comida="Pizza">
+      <nombre>Pizza 6 quesos</nombre>
+      <precio>11,00€</precio>
+      <description>Pizza con oregano, parmesano, roquefort, cabra, camembert, gouda y elemental</description>
+      <calorias>300 kcal</calorias>
+      <caracteristicas> 
+        <item>Glúten</item>
+        <item>Lactosa</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 8-->
+    <platos comida="Carne">
+      <nombre>Costillas de cerdo</nombre>
+      <precio>15,00€</precio>
+      <description>Ración de 5 o 6 costillas de cerdo ibérico</description>
+      <calorias>292 kcal</calorias>
+      <caracteristicas> 
+        <item>Carne</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 9-->
+    <platos comida="Carne">
+      <nombre>Bistec</nombre>
+      <precio>17,50€</precio>
+      <description>Una pieza de bistec con Patatas</description>
+      <calorias>270,5 kcal</calorias>
+      <caracteristicas> 
+        <item>Carne</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 10-->
+    <platos comida="Pasta">
+      <nombre>Macarrones</nombre>
+      <precio>8,00€</precio>
+      <description>Plato de macarrones con o sin queso rayado con salsa boloñesa</description>
+      <calorias>371,2 kcal</calorias>
+      <caracteristicas> 
+        <item>Glúten</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 11-->
+    <platos comida="Pasta">
+      <nombre>Espaguetis</nombre>
+      <precio>8,00€</precio>
+      <description>Plato de espaguetis con o sin queso rayado con salsa boloñesa</description>
+      <calorias>157,7 kcal</calorias>
+      <caracteristicas> 
+        <item>Glúten</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 12-->
+    <platos comida="Arroz">
+      <nombre>Paella</nombre>
+      <precio>14,00€</precio>
+      <description>Sartén de paella para dos personas</description>
+      <calorias>379 kcal</calorias>
+      <caracteristicas> 
+        <item>Pescado</item>
+        <item>Marisco</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 13-->
+    <platos comida="Arroz">
+      <nombre>Arroz negro</nombre>
+      <precio>12,00€</precio>
+      <description>Sartén de arroz negro para dos personas</description>
+      <calorias>150 kcal</calorias>
+      <caracteristicas> 
+        <item>Pescado</item>
+        <item>Marisco</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 14-->
+    <platos comida="Arroz">
+      <nombre>Arroz caldoso</nombre>
+      <precio>18,00€</precio>
+      <description>Sartén de arroz caldoso para dos personas</description>
+      <calorias>417 kcal</calorias>
+      <caracteristicas> 
+        <item>Pescado</item>
+        <item>Marisco</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 15-->
+    <platos comida="Carne">
+      <nombre>Kebab</nombre>
+      <precio>6,00€</precio>
+      <description>Kebab completo, solo carne 6,50€</description>
+      <calorias>739 kcal</calorias>
+      <caracteristicas> 
+        <item>Glúten</item>
+        <item>Lechuga</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 16-->
+    <platos comida="Postre">
+      <nombre>Natillas</nombre>
+      <precio>3,50€</precio>
+      <description>Natillas caseras de vainilla con galleta</description>
+      <calorias>111 kcal</calorias>
+      <caracteristicas> 
+        <item>Glúten</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 17-->
+    <platos comida="Postre">
+      <nombre>Brownie de chocolate</nombre>
+      <precio>6,50€</precio>
+      <description>Brownie de chocolate con leche</description>
+      <calorias>466,1 kcal</calorias>
+      <caracteristicas> 
+        <item>Lactosa</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 18-->
+    <platos comida="Postre">
+      <nombre>Tarta de queso</nombre>
+      <precio>5,00€</precio>
+      <description>Porción de tarta de queso con mermelada de arandanos</description>
+      <calorias>321 kcal</calorias>
+      <caracteristicas> 
+        <item>Lactosa</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 19-->
+     <platos comida="Postre">
+      <nombre>Helado Xtrm</nombre>
+      <precio>8,00€</precio>
+      <description>Helado de vainilla, pistacho y turrón</description>
+      <calorias>207,5 kcal</calorias>
+      <caracteristicas> 
+        <item>Lactosa</item>
+      </caracteristicas>
+    </platos>
+    <!--plato 20-->
+     <platos comida="Postre">
+      <nombre>Manzana</nombre>
+      <precio>2,50€</precio>
+      <description>Pieza de fruta</description>
+      <calorias>52,1 kcal</calorias>
+      <caracteristicas> 
+        <item>Fruta</item>
+      </caracteristicas>
+    </platos>
+  </menu>
+    

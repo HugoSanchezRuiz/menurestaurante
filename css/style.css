@@ -1,0 +1,166 @@
+html {
+    font-size: 16px;
+}
+
+.padding {
+    padding-left: 20%;
+}
+
+.paddingt {
+    padding-top: 3%;
+}
+
+.paddingt2 {
+    padding-top: 1%;
+}
+
+.paddingb {
+    padding-bottom: 6%;
+}
+
+.paddingb2 {
+    padding-bottom: 3%;
+}
+
+.paddingtf {
+    padding-top: 7%;
+}
+
+.paddingf {
+    padding: 5%;
+}
+
+
+/* Redimensión de fuente utilizando rem */
+
+p {
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+}
+
+h4 {
+    font-size: 1.3rem;
+}
+
+h5 {
+    font-size: 1.15rem;
+}
+
+h6 {
+    font-size: 1.05rem;
+}
+
+
+/**************************/
+
+
+/* clases predefinidas */
+
+* {
+    box-sizing: border-box;
+}
+
+
+/* Clear floats after the columns */
+
+.row-c:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.footer {
+    background-color: salmon;
+    color: white;
+}
+
+#card-1 {
+    background-image: url(../img/fondo.jpg);
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* Diseño de columnas */
+
+.column-1 {
+    width: 100%;
+    float: left;
+}
+
+.hugo {
+    width: 47%;
+    float: left;
+}
+
+.column-3 {
+    width: 33.33%;
+    float: left;
+}
+
+.column-4 {
+    width: 25%;
+    float: left;
+}
+
+.column-5 {
+    width: 20%;
+    float: left;
+}
+
+.column-6 {
+    width: 16.66%;
+    float: left;
+}
+
+.column-75 {
+    width: 75%;
+    float: left;
+}
+
+
+/* Otras clases */
+
+img {
+    height: 80vh;
+    object-fit: cover;
+}
+
+
+/* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+    /* column-2 pasará de tener 50% a 100% */
+    .column-2 {
+        width: 100%;
+    }
+    /* column-3 pasará de tener 33.33% a 100% */
+    .column-3 {
+        width: 100%;
+    }
+    /* column-4 pasará de tener 25% a 50% */
+    .column-4 {
+        width: 50%;
+    }
+    .desc {
+        display: none;
+    }
+}
